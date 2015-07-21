@@ -1,0 +1,17 @@
+pom.xml
+target
+target-eclipse
+auditlog
+.classpath
+.settings
+.project
+.idea/
+*.iml
+*/target
+*/target-eclipse
+*/pom.xml
+*/auditlog
+war/deployment/local/config.properties
+war/deployment/local/log4j.xml
+*.class
+*.pyc
